@@ -53,7 +53,7 @@ Project/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Backend Setup
 
